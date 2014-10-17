@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SlidePage</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="child1_message">i am child 1</string>
+    <string name="child2_message">i am child 2</string>
+    <string name="child3_message">i am child 3</string>
+    <string name="slideBarTitle_1">第一页</string>
+    <string name="slideBarTitle_2">第二页</string>
+    <string name="slideBarTitle_3">第三页</string>
+
+</resources>
